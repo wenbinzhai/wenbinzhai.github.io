@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routing Optimization | Wenbin Zhai&#39;s homepage</title>
+    <link>https://wenbinzhai.github.io/tag/routing-optimization/</link>
+      <atom:link href="https://wenbinzhai.github.io/tag/routing-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Routing Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
+      <title>Routing Optimization</title>
+      <link>https://wenbinzhai.github.io/tag/routing-optimization/</link>
+    </image>
+    
+    <item>
+      <title>EKR: An Efficient K-anycast Routing in UAV Networks</title>
+      <link>https://wenbinzhai.github.io/publication/conference-paper/guo-iccc/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/conference-paper/guo-iccc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESTA: An Efficient Spatial-Temporal Range Aggregation Query Processing Algorithm for UAV Networks</title>
+      <link>https://wenbinzhai.github.io/publication/preprint/esta/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/preprint/esta/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)</title>
+      <link>https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESTA</title>
+      <link>https://wenbinzhai.github.io/project/esta/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/esta/</guid>
+      <description>&lt;p&gt;Designed an efficient &lt;strong&gt;spatial-temporal range aggregation query processing (ESTA)&lt;/strong&gt; algorithm for UAV networks. Based on the constructed &lt;strong&gt;topology change graph (TCG)&lt;/strong&gt;, an efficient &lt;strong&gt;shortest path algorithm&lt;/strong&gt; is proposed to obtain the user query delay. Then ESTA transforms the aggregation processing of query results into recursively solving the &lt;strong&gt;set cover problem&lt;/strong&gt;, thus constructing a &lt;strong&gt;spatial-temporal aggregation tree (STAT)&lt;/strong&gt; to find an efficient in-network aggregation routing path for query results without sacrificing the user query delay. (2022, submitted to journal &lt;strong&gt;Future Generation Computer Systems (FGCS) [CORE A, CCF C, SCI-Q1, IF 7.307]&lt;/strong&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAR: A Power-Aware Routing Algorithm for UAV Networks</title>
+      <link>https://wenbinzhai.github.io/publication/conference-paper/par/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/conference-paper/par/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Link Aware Aggregation Query with Privacy-Preserving Capability in Wireless Sensor Networks</title>
+      <link>https://wenbinzhai.github.io/publication/conference-paper/cui-eisa/</link>
+      <pubDate>Sat, 29 Oct 2022 07:05:16 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/conference-paper/cui-eisa/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>An efficient data collection algorithm for partitioned wireless sensor networks</title>
+      <link>https://wenbinzhai.github.io/publication/journal-article/min-fgcs/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/journal-article/min-fgcs/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAR</title>
+      <link>https://wenbinzhai.github.io/project/par/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/par/</guid>
+      <description>&lt;p&gt;Proposed a &lt;strong&gt;power-aware routing (PAR)&lt;/strong&gt; algorithm to optimize energy consumption in delay-constrained UAV networks which takes the &lt;strong&gt;adjustable power&lt;/strong&gt; of UAVs into consideration and utilizes the &lt;strong&gt;pre-planned trajectory information&lt;/strong&gt; to calculate encounters at different power levels, thereby constructing a &lt;strong&gt;power-aware encounter tree&lt;/strong&gt; to find the transmission path with minimum energy consumption from the source to the destination within the delay constraint. (2020-2021, published in conference &lt;strong&gt;WASA 2022 [CCF C]&lt;/strong&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

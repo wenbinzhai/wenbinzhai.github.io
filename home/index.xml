@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes | Wenbin Zhai&#39;s homepage</title>
+    <link>https://wenbinzhai.github.io/home/</link>
+      <atom:link href="https://wenbinzhai.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
+      <title>Homes</title>
+      <link>https://wenbinzhai.github.io/home/</link>
+    </image>
+    
+    <item>
+      <title>Recent News</title>
+      <link>https://wenbinzhai.github.io/home/recent_news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/home/recent_news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Zhang!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21th IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Lu!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[17/06/23]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; is now available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/05/23]&lt;/strong&gt; New paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/etd/ETD.pdf&#34;&gt;ETD: An Efficient Time Delay Attack Detection Framework for UAV Networks&lt;/a&gt; has been published on IEEE Transactions on Information Forensics and Security (&lt;strong&gt;TIFS&lt;/strong&gt;) [&lt;strong&gt;CORE A&lt;/strong&gt;, CCF A, SCI-Q1, IF 7.231].&lt;/p&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
