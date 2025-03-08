@@ -783,7 +783,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-276435891&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-493762158&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -793,7 +793,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-276435891&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-493762158&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1307,6 +1307,26 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21th IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Lu!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[17/06/23]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; is now available.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[04/05/23]&lt;/strong&gt; New paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/etd/ETD.pdf&#34;&gt;ETD: An Efficient Time Delay Attack Detection Framework for UAV Networks&lt;/a&gt; has been published on IEEE Transactions on Information Forensics and Security (&lt;strong&gt;TIFS&lt;/strong&gt;) [&lt;strong&gt;CORE A&lt;/strong&gt;, CCF A, SCI-Q1, IF 7.231].&lt;/p&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Professional Activities</title>
+      <link>https://wenbinzhai.github.io/activities/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/activities/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[Journal Reviewer]&lt;/strong&gt; IEEE Transactions on Information Forensics and Security (&lt;strong&gt;TIFS&lt;/strong&gt;) [&lt;strong&gt;CORE A&lt;/strong&gt;, CCF A, SCI-Q1]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Journal Reviewer]&lt;/strong&gt; The Journal of Supercomputing (&lt;strong&gt;TJSC&lt;/strong&gt;) [CCF C, SCI-Q2]&lt;/p&gt;
 
 </description>
     </item>
