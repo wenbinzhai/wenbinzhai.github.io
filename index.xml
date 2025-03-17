@@ -27,7 +27,7 @@
 
 
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Zhang!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21th IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Lu!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[17/06/23]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; is now available.&lt;/p&gt;
@@ -783,7 +783,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-675483912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-387914526&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -793,7 +793,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-675483912&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-387914526&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1272,7 +1272,7 @@ $$&lt;/p&gt;
 
 
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; Tuition Fee Scholarship of UNSW Sydney&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[03/04/23]&lt;/strong&gt; Merit Student of Jiangsu Province (&lt;strong&gt;1 postgraduate student in the college each year&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[03/04/23]&lt;/strong&gt; Merit Student of Jiangsu Province (&lt;strong&gt;awarded to 1 postgraduate student in the college annually&lt;/strong&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/03/23]&lt;/strong&gt; Outstanding Graduate of NUAA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/12/22]&lt;/strong&gt; Merit Student of NUAA (2021-2023)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/12/22]&lt;/strong&gt; Advanced Individual in Research and Innovation of NUAA (2021-2023)&lt;/p&gt;
@@ -1281,7 +1281,7 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/12/19]&lt;/strong&gt; Merit Student of NJUCM (2018-2020)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[21/12/18]&lt;/strong&gt; National Encouragement Scholarship in China (2017-2019) (CNY 5,000/year)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[19/12/18]&lt;/strong&gt; First Class Scholarship for Undergraduates of NJUCM (2017-2020) (CNY 2,500/year)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[10/12/18]&lt;/strong&gt; Principal&amp;rsquo;s Special Award of NJUCM (2017-2018) (CNY 10,000) (&lt;strong&gt;10 students in the university each year&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/12/18]&lt;/strong&gt; Principal&amp;rsquo;s Special Award of NJUCM (2017-2018) (CNY 10,000) (&lt;strong&gt;awarded to 10 students university-wide annually&lt;/strong&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/10/18]&lt;/strong&gt; Fei Xiaotong Virtue Scholarship (CNY 6,000)&lt;/p&gt;
 
 </description>
@@ -1302,7 +1302,7 @@ $$&lt;/p&gt;
 
 
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Zhang!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21th IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Lu!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[17/06/23]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; is now available.&lt;/p&gt;
