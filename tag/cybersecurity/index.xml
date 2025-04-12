@@ -5,30 +5,12 @@
     <link>https://wenbinzhai.github.io/tag/cybersecurity/</link>
       <atom:link href="https://wenbinzhai.github.io/tag/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <description>Cybersecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 01:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
       <title>Cybersecurity</title>
       <link>https://wenbinzhai.github.io/tag/cybersecurity/</link>
     </image>
-    
-    <item>
-      <title>Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks</title>
-      <link>https://wenbinzhai.github.io/publication/preprint/feds3a/</link>
-      <pubDate>Wed, 23 Aug 2023 01:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/publication/preprint/feds3a/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
     
     <item>
       <title>Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)</title>

@@ -191,42 +191,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks</title>
-      <link>https://wenbinzhai.github.io/publication/preprint/feds3a/</link>
-      <pubDate>Wed, 23 Aug 2023 01:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/publication/preprint/feds3a/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ESTA: An Efficient Spatial-Temporal Range Aggregation Query Processing Algorithm for UAV Networks</title>
-      <link>https://wenbinzhai.github.io/publication/preprint/esta/</link>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/publication/preprint/esta/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)</title>
       <link>https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
@@ -783,7 +747,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-871295364&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-618325947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -793,7 +757,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-871295364&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-618325947&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
