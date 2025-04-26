@@ -26,7 +26,7 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[25/03/25]&lt;/strong&gt; Our paper &amp;ldquo;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&amp;rdquo; has been accepted by Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/zhang-P2P.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
@@ -52,6 +52,33 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</title>
+      <link>https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -747,7 +774,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-618325947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-168527439&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -757,7 +784,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-618325947&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-168527439&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1235,18 +1262,22 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[10/01/25]&lt;/strong&gt; Outstanding Postgraduate Thesis of Jiangsu Computer Society&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[28/11/24]&lt;/strong&gt; Outstanding Postgraduate Thesis of Jiangsu Province&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; Tuition Fee Scholarship of UNSW Sydney&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[03/04/23]&lt;/strong&gt; Merit Student of Jiangsu Province (&lt;strong&gt;awarded to 1 postgraduate student in the college annually&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[03/04/23]&lt;/strong&gt; Provincial Merit Student of Jiangsu Province (&lt;strong&gt;Awarded to 1 postgraduate student in the college annually&lt;/strong&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/03/23]&lt;/strong&gt; Outstanding Graduate of NUAA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/12/22]&lt;/strong&gt; Merit Student of NUAA (2021-2023)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/12/22]&lt;/strong&gt; Advanced Individual in Research and Innovation of NUAA (2021-2023)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/09/20]&lt;/strong&gt; Second Class Scholarship for Graduate Students of NUAA (2020-2023) (CNY 8,000/year)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[08/10/21]&lt;/strong&gt; Outstanding Thesis of Jiangsu Province&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/06/20]&lt;/strong&gt; Outstanding Graduate of NJUCM&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/12/19]&lt;/strong&gt; Merit Student of NJUCM (2018-2020)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[20/09/19]&lt;/strong&gt; Ruihua Soaring Scholarship (Awarded by Jiangsu Ruihua Charity Foundation)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[21/12/18]&lt;/strong&gt; National Encouragement Scholarship in China (2017-2019) (CNY 5,000/year)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[19/12/18]&lt;/strong&gt; First Class Scholarship for Undergraduates of NJUCM (2017-2020) (CNY 2,500/year)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[10/12/18]&lt;/strong&gt; Principal&amp;rsquo;s Special Award of NJUCM (2017-2018) (CNY 10,000) (&lt;strong&gt;awarded to 10 students university-wide annually&lt;/strong&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[25/10/18]&lt;/strong&gt; Fei Xiaotong Virtue Scholarship (CNY 6,000)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/12/18]&lt;/strong&gt; Principal&amp;rsquo;s Special Scholarship of NJUCM (2017-2018) (CNY 10,000) (&lt;strong&gt;Awarded to top 10 undergraduates university-wide annually for outstanding academic and comprehensive performance&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[25/10/18]&lt;/strong&gt; Fei Xiaotong Virtue Scholarship (Awarded by Jiangsu Fei Xiaotong Education Foundation)&lt;/p&gt;
 
 </description>
     </item>
@@ -1265,7 +1296,7 @@ $$&lt;/p&gt;
 
 
 
-&lt;p&gt;&lt;strong&gt;[25/03/25]&lt;/strong&gt; Our paper &amp;ldquo;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&amp;rdquo; has been accepted by Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/zhang-P2P.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
