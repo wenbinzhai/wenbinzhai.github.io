@@ -774,7 +774,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-168527439&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-945278361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -784,7 +784,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-168527439&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-945278361&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1270,7 +1270,7 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/12/22]&lt;/strong&gt; Merit Student of NUAA (2021-2023)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/12/22]&lt;/strong&gt; Advanced Individual in Research and Innovation of NUAA (2021-2023)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/09/20]&lt;/strong&gt; Second Class Scholarship for Graduate Students of NUAA (2020-2023) (CNY 8,000/year)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[08/10/21]&lt;/strong&gt; Outstanding Thesis of Jiangsu Province&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[08/10/21]&lt;/strong&gt; Outstanding Undergraduate Thesis of Jiangsu Province&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/06/20]&lt;/strong&gt; Outstanding Graduate of NJUCM&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/12/19]&lt;/strong&gt; Merit Student of NJUCM (2018-2020)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/09/19]&lt;/strong&gt; Ruihua Soaring Scholarship (Awarded by Jiangsu Ruihua Charity Foundation)&lt;/p&gt;
