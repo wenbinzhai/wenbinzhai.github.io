@@ -14,9 +14,9 @@
     
     <item>
       <title>OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</title>
-      <link>https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/</link>
+      <link>https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/</guid>
+      <guid>https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,7 +40,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>OSIS: Obstacle-Sensitive and Initial-Solution-First Path Planning</title>
+      <title>OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</title>
       <link>https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/</guid>
@@ -164,9 +164,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Efficient time-delay attack detection based on node pruning and model fusion</title>
-      <link>https://wenbinzhai.github.io/publication/journal-article/zhao-p2p/</link>
+      <link>https://wenbinzhai.github.io/publication/journal-article/zhao-ppna/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/publication/journal-article/zhao-p2p/</guid>
+      <guid>https://wenbinzhai.github.io/publication/journal-article/zhao-ppna/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -222,15 +222,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://wenbinzhai.github.io/project/feds3a/</guid>
       <description>&lt;p&gt;Working on the design of &lt;strong&gt;Federated Semi-Supervised and Semi-Asynchronous Learning (FedS&lt;sup&gt;3&lt;/sup&gt;A)&lt;/strong&gt; for anomaly detection in IoT networks, addressing a more realistic semi-supervised scenario. The framework introduces a &lt;strong&gt;semi-asynchronous model update and staleness-tolerant distribution scheme&lt;/strong&gt; to balance round efficiency and detection performance. It accounts for &lt;strong&gt;the staleness of local models and the participation frequency of clients&lt;/strong&gt; to ensure fair contributions to the global model. Additionally, a &lt;strong&gt;group-based aggregation function&lt;/strong&gt; is employed to handle non-IID data, while difference transmission using sparse matrices is adopted to reduce communication overhead. (2022–present, submitted to the &lt;strong&gt;IEEE Internet of Things Journal (IOTJ) [CCF C, SCI-Q1])&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ESTA</title>
-      <link>https://wenbinzhai.github.io/project/esta/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/project/esta/</guid>
-      <description>&lt;p&gt;Designed an &lt;strong&gt;Efficient Spatial-Temporal Range Aggregation Query Processing (ESTA)&lt;/strong&gt; Algorithm for UAV networks. Leveraging a constructed &lt;strong&gt;Topology Change Graph (TCG)&lt;/strong&gt;, the algorithm employs an efficient shortest path method to determine user query delay. ESTA then transforms the aggregation of query results into a recursive set cover problem, constructing a &lt;strong&gt;Spatial-Temporal Aggregation Tree (STAT)&lt;/strong&gt; to identify an optimal in-network aggregation routing path for query results while maintaining user query delay requirements. (2022, submitted to &lt;strong&gt;Future Generation Computer Systems (FGCS) [CORE A, CCF C, SCI-Q1]&lt;/strong&gt;).&lt;/p&gt;
 </description>
     </item>
     
@@ -323,9 +314,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Power level aware charging schedule in wireless rechargeable sensor network</title>
-      <link>https://wenbinzhai.github.io/publication/journal-article/wang-p2p/</link>
+      <link>https://wenbinzhai.github.io/publication/journal-article/wang-ppna/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/publication/journal-article/wang-p2p/</guid>
+      <guid>https://wenbinzhai.github.io/publication/journal-article/wang-ppna/</guid>
       <description>&lt;!-- 
 
 

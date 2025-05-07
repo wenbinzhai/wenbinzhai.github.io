@@ -17,7 +17,7 @@
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/publication/journal-article/zhang-p2p/</loc>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -101,7 +101,7 @@
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/publication/journal-article/zhao-p2p/</loc>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/zhao-ppna/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -125,14 +125,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/project/esta/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/tag/networking/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wenbinzhai.github.io/publication/conference-paper/par/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -153,7 +145,7 @@
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/publication/journal-article/wang-p2p/</loc>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/wang-ppna/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -199,6 +191,10 @@
   </url><url>
     <loc>https://wenbinzhai.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/networking/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wenbinzhai.github.io/project/par/</loc>

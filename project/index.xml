@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>ESTA</title>
-      <link>https://wenbinzhai.github.io/project/esta/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/project/esta/</guid>
-      <description>&lt;p&gt;Designed an &lt;strong&gt;Efficient Spatial-Temporal Range Aggregation Query Processing (ESTA)&lt;/strong&gt; Algorithm for UAV networks. Leveraging a constructed &lt;strong&gt;Topology Change Graph (TCG)&lt;/strong&gt;, the algorithm employs an efficient shortest path method to determine user query delay. ESTA then transforms the aggregation of query results into a recursive set cover problem, constructing a &lt;strong&gt;Spatial-Temporal Aggregation Tree (STAT)&lt;/strong&gt; to identify an optimal in-network aggregation routing path for query results while maintaining user query delay requirements. (2022, submitted to &lt;strong&gt;Future Generation Computer Systems (FGCS) [CORE A, CCF C, SCI-Q1]&lt;/strong&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ETD</title>
       <link>https://wenbinzhai.github.io/project/etd/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
