@@ -26,11 +26,11 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21th IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Wanying!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21st IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Wanying!&lt;/p&gt;
 
 </description>
     </item>
@@ -765,7 +765,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-835462971&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-879536214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -775,7 +775,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-835462971&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-879536214&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1264,7 +1264,7 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/10/21]&lt;/strong&gt; Outstanding Undergraduate Thesis of Jiangsu Province&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/06/20]&lt;/strong&gt; Outstanding Graduate of NJUCM&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25/12/19]&lt;/strong&gt; Merit Student of NJUCM (2018-2020)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[20/09/19]&lt;/strong&gt; Ruihua Soaring Scholarship (CNY 2,500) (Awarded by Jiangsu Ruihua Charity Foundation)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[20/09/19]&lt;/strong&gt; Ruihua Soaring Scholarship (CNY 8,000) (Awarded by Jiangsu Ruihua Charity Foundation)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[21/12/18]&lt;/strong&gt; National Encouragement Scholarship in China (2017-2019) (CNY 5,000/year)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[19/12/18]&lt;/strong&gt; First Class Scholarship for Undergraduates of NJUCM (2017-2020) (CNY 2,500/year)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[10/12/18]&lt;/strong&gt; Principal&amp;rsquo;s Special Scholarship of NJUCM (2017-2018) (CNY 10,000) (&lt;strong&gt;Awarded to top 10 undergraduates university-wide annually for outstanding academic and comprehensive performance&lt;/strong&gt;)&lt;/p&gt;
@@ -1287,13 +1287,13 @@ $$&lt;/p&gt;
 
 
 
-&lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; Our paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21th IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Wanying!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[28/10/23]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been accepted by the 29th IEEE International Conference on Parallel and Distributed Systems (&lt;strong&gt;ICPADS 2023&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[18/10/23]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/Lu-ISPA.pdf&#34;&gt;HBC: Combining Lossy and Lossless Hybrid Bilayer Compression Framework on Time-Series Data&lt;/a&gt; has been accepted by the 21st IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2023&lt;/strong&gt;) [CCF C]. Congratulations to Wanying!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[17/06/23]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; is now available.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[04/05/23]&lt;/strong&gt; New paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/etd/ETD.pdf&#34;&gt;ETD: An Efficient Time Delay Attack Detection Framework for UAV Networks&lt;/a&gt; has been published on IEEE Transactions on Information Forensics and Security (&lt;strong&gt;TIFS&lt;/strong&gt;) [&lt;strong&gt;CORE A&lt;/strong&gt;, CCF A, SCI-Q1, IF 7.231].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/05/23]&lt;/strong&gt; A first-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/etd/ETD.pdf&#34;&gt;ETD: An Efficient Time Delay Attack Detection Framework for UAV Networks&lt;/a&gt; has been published on IEEE Transactions on Information Forensics and Security (&lt;strong&gt;TIFS&lt;/strong&gt;) [&lt;strong&gt;CORE A&lt;/strong&gt;, CCF A, SCI-Q1, IF 7.231].&lt;/p&gt;
 
 </description>
     </item>
