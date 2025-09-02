@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wenbinzhai.github.io/home/recent_news/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wenbinzhai.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,8 +13,156 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://wenbinzhai.github.io/publication-type/2/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication_types/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tags/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/wireless-sensor-networks/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication-type/1/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/path-planning/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/lu-cecct/</loc>
+    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/federated-semi-supervised-learning/</loc>
+    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/moving-target-defense/</loc>
+    <lastmod>2024-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/guo-iccc/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/routing-optimization/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/plan-planning/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/zhou-cdics/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/databases/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/lu-ispa/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication-type/7/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/cybersecurity/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/etd/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/zhao-ppna/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/hotd/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/project/feds3a/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/fan-is/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/privacy-protection/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/project/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/par/</loc>
+    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/cui-eisa/</loc>
+    <lastmod>2022-10-29T07:05:16+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wenbinzhai.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/min-fgcs/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/project/etd/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/wang-ppna/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/ding-scn/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/journal-article/song-wcmc/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/project/hotd/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/conference-paper/hu-msn/</loc>
+    <lastmod>2021-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wenbinzhai.github.io/tag/academic/</loc>
@@ -30,10 +181,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wenbinzhai.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,28 +193,24 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://wenbinzhai.github.io/tag/networking/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/project/par/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/tag/cryptography/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/publication/thesis/undergraduatethesis/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wenbinzhai.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wenbinzhai.github.io/post/jupyter/</loc>
@@ -82,43 +225,22 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://wenbinzhai.github.io/honors/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://wenbinzhai.github.io/news/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wenbinzhai.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wenbinzhai.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://wenbinzhai.github.io/activities/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wenbinzhai.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wenbinzhai.github.io/home/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

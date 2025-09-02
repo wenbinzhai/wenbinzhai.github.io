@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking | Wenbin Zhai&#39;s homepage</title>
+    <link>https://wenbinzhai.github.io/tag/networking/</link>
+      <atom:link href="https://wenbinzhai.github.io/tag/networking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Networking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
+      <title>Networking</title>
+      <link>https://wenbinzhai.github.io/tag/networking/</link>
+    </image>
+    
+    <item>
+      <title>PAR</title>
+      <link>https://wenbinzhai.github.io/project/par/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/par/</guid>
+      <description>&lt;p&gt;Proposed a &lt;strong&gt;Power-Aware Routing (PAR)&lt;/strong&gt; Algorithm to optimize energy consumption in delay-constrained UAV networks. The algorithm incorporates the &lt;strong&gt;adjustable power&lt;/strong&gt; levels of UAVs and leverages pre-planned trajectory information to calculate encounters at different power levels. Using this data, a &lt;strong&gt;power-aware encounter tree&lt;/strong&gt; is constructed to identify the transmission path with minimal energy consumption from the source to the destination, while adhering to delay constraints. (2020–2021, published in &lt;strong&gt;WASA 2022 [CCF C]&lt;/strong&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

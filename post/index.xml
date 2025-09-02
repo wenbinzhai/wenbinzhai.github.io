@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | WenbinZhai&#39;s homepage</title>
+    <title>Posts | Wenbin Zhai&#39;s homepage</title>
     <link>https://wenbinzhai.github.io/post/</link>
       <atom:link href="https://wenbinzhai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wenbinzhai.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://wenbinzhai.github.io/post/</link>
     </image>
@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-183796542&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-824635917&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-183796542&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-824635917&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

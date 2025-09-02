@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Path Planning | Wenbin Zhai&#39;s homepage</title>
+    <link>https://wenbinzhai.github.io/tag/path-planning/</link>
+      <atom:link href="https://wenbinzhai.github.io/tag/path-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Path Planning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
+      <title>Path Planning</title>
+      <link>https://wenbinzhai.github.io/tag/path-planning/</link>
+    </image>
+    
+    <item>
+      <title>OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</title>
+      <link>https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/conference-paper/zhang-icpads/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning for Multi-Vehicle-Assisted Multi-UAVs in Mobile Crowdsensing</title>
+      <link>https://wenbinzhai.github.io/publication/journal-article/song-wcmc/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/journal-article/song-wcmc/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

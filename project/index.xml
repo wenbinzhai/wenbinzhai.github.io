@@ -1,36 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | WenbinZhai&#39;s homepage</title>
+    <title>Projects | Wenbin Zhai&#39;s homepage</title>
     <link>https://wenbinzhai.github.io/project/</link>
       <atom:link href="https://wenbinzhai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wenbinzhai.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://wenbinzhai.github.io/project/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://wenbinzhai.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>FedS3A</title>
+      <link>https://wenbinzhai.github.io/project/feds3a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/feds3a/</guid>
+      <description>&lt;p&gt;Working on the design of &lt;strong&gt;Federated Semi-Supervised and Semi-Asynchronous Learning (FedS&lt;sup&gt;3&lt;/sup&gt;A)&lt;/strong&gt; for anomaly detection in IoT networks, addressing a more realistic semi-supervised scenario. The framework introduces a &lt;strong&gt;semi-asynchronous model update and staleness-tolerant distribution scheme&lt;/strong&gt; to balance round efficiency and detection performance. It accounts for &lt;strong&gt;the staleness of local models and the participation frequency of clients&lt;/strong&gt; to ensure fair contributions to the global model. Additionally, a &lt;strong&gt;group-based aggregation function&lt;/strong&gt; is employed to handle non-IID data, while difference transmission using sparse matrices is adopted to reduce communication overhead. (2022–present, submitted to the &lt;strong&gt;IEEE Internet of Things Journal (IOTJ) [CCF C, SCI-Q1])&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://wenbinzhai.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://wenbinzhai.github.io/project/external-project/</guid>
-      <description></description>
+      <title>ETD</title>
+      <link>https://wenbinzhai.github.io/project/etd/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/etd/</guid>
+      <description>&lt;p&gt;Proposed an &lt;strong&gt;Efficient Time Delay Attack Detection Scheme (ETD)&lt;/strong&gt; for UAV networks, addressing a relatively underexplored attack surface. The scheme begins with a comprehensive selection of delay-related features across four dimensions: &lt;strong&gt;delay, node, message, and connection&lt;/strong&gt;. Using one-class classification, a model is trained based on these features to evaluate the forwarding behaviors of all nodes and compute their trust values. Malicious nodes are then distinguished from benign ones based on these trust values. (2022, published in the &lt;strong&gt;IEEE Transactions on Information Forensics and Security (TIFS) [CORE A, CCF A, SCI-Q1]&lt;/strong&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HOTD</title>
+      <link>https://wenbinzhai.github.io/project/hotd/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/hotd/</guid>
+      <description>&lt;p&gt;Proposed a &lt;strong&gt;Holistic Cross-Layer Time Delay Attack Detection Framework (HOTD)&lt;/strong&gt; for UAV networks, designed to effectively identify time delay attacks that are both challenging to detect and straightforward to implement. The framework begins with a comprehensive selection of delay-related features across each layer of UAV networks. Using supervised learning, a &lt;strong&gt;consistency model&lt;/strong&gt; is constructed to map the relationship between these features and their corresponding forwarding delays. Based on this model, the &lt;strong&gt;consistency degree&lt;/strong&gt; of each node is calculated. Finally, the K-Means clustering algorithm is employed to classify nodes as either malicious or benign based on their consistency degrees. (2021–2022, published in the &lt;strong&gt;Journal of Parallel and Distributed Computing (JPDC) [CORE A, CCF B, SCI-Q1]&lt;/strong&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAR</title>
+      <link>https://wenbinzhai.github.io/project/par/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/project/par/</guid>
+      <description>&lt;p&gt;Proposed a &lt;strong&gt;Power-Aware Routing (PAR)&lt;/strong&gt; Algorithm to optimize energy consumption in delay-constrained UAV networks. The algorithm incorporates the &lt;strong&gt;adjustable power&lt;/strong&gt; levels of UAVs and leverages pre-planned trajectory information to calculate encounters at different power levels. Using this data, a &lt;strong&gt;power-aware encounter tree&lt;/strong&gt; is constructed to identify the transmission path with minimal energy consumption from the source to the destination, while adhering to delay constraints. (2020–2021, published in &lt;strong&gt;WASA 2022 [CCF C]&lt;/strong&gt;).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

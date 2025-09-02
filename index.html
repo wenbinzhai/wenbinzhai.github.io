@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: August 21, 2023 --><html lang="en-us" >
+<!-- Last Published: September 2, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -57,8 +57,8 @@
   
     
       
-      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -104,23 +104,8 @@
         
       
         
-          
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
       
     
-    
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -245,7 +230,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.042e26407c9e383d96a1f26d6787c686.css" />
+  <link rel="stylesheet" href="/css/wowchemy.58fb15e2da83dd3f063d1db556f4a54e.css" />
 
   
   
@@ -267,8 +252,48 @@
   
   
 
+  <meta name="google-site-verification" content="QWL_mhA6b9Hr-W2YRR3e1SNOy9rc6N48VYcOIMQT694" />
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DRE1LBFJ3D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-DRE1LBFJ3D', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -301,7 +326,7 @@
 
 
 
-  <meta name="author" content="Wenbin Zhai 翟文斌" />
+  <meta name="author" content="Wenbin Zhai" />
 
 
 
@@ -309,7 +334,7 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." />
+<meta name="description" content="Wenbin Zhai&#39;s Homepage" />
 
 
 
@@ -322,8 +347,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_180x180_fill_lanczos_center_3.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -346,13 +371,13 @@
 
 <meta property="twitter:card" content="summary" />
 
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://wenbinzhai.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-<meta property="og:site_name" content="WenbinZhai&#39;s homepage" />
+  <meta property="twitter:site" content="@Wenbin Zhai" />
+  <meta property="twitter:creator" content="@Wenbin Zhai" />
+<meta property="twitter:image" content="https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png" />
+<meta property="og:site_name" content="Wenbin Zhai&#39;s homepage" />
 <meta property="og:url" content="https://wenbinzhai.github.io/" />
-<meta property="og:title" content="WenbinZhai&#39;s homepage" />
-<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://wenbinzhai.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Wenbin Zhai&#39;s homepage" />
+<meta property="og:description" content="Wenbin Zhai&#39;s Homepage" /><meta property="og:image" content="https://wenbinzhai.github.io/media/icon_hu1dde5b7f5ebbfc8234fbe536bc32158e_7100_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta property="og:updated_time" content="2022-10-24T00:00:00&#43;00:00" />
@@ -389,14 +414,14 @@
 
   
   
-    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="WenbinZhai&#39;s homepage" />
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Wenbin Zhai&#39;s homepage" />
   
 
   
 
 
   
-  <title>WenbinZhai&#39;s homepage</title>
+  <title>Wenbin Zhai&#39;s homepage</title>
 
   
   
@@ -495,7 +520,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">WenbinZhai&#39;s homepage</a>
+        <a class="navbar-brand" href="/">Wenbin Zhai&#39;s homepage</a>
       </div>
       
 
@@ -508,7 +533,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">WenbinZhai&#39;s homepage</a>
+        <a class="navbar-brand" href="/">Wenbin Zhai&#39;s homepage</a>
       </div>
       
 
@@ -588,81 +613,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
+            <a class="nav-link " href="/#news" data-target="#news"><span>News</span></a>
           </li>
 
           
@@ -736,7 +687,118 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+            <a class="nav-link " href="/#projects" data-target="#projects"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#honors" data-target="#honors"><span>Honors and Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#activities" data-target="#activities"><span>Professional Activities</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#collaborator" data-target="#collaborator"><span>Collaborator</span></a>
           </li>
 
           
@@ -755,8 +817,8 @@
           
             
             <li class="nav-item d-none d-lg-inline-flex">
-              <a class="nav-link" href="https://twitter.com/GeorgeCushen" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
-                <i class="fab fa-twitter" aria-hidden="true"></i>
+              <a class="nav-link" href="mailto:wenbin.zhai@connect.polyu.hk"  aria-label="envelope">
+                <i class="fas fa-envelope" aria-hidden="true"></i>
               </a>
             </li>
           
@@ -825,185 +887,6 @@
 
 <span class="js-widget-page d-none"></span>
 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-hero" class="home-section wg-hero dark "  >
- <div class="home-section-bg " style="background-image: linear-gradient(90deg, #004ba0, #1976d2);">
-   
- </div>
-  <div class="container">
-
-  
-
-    
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-md-6 text-center text-md-left">
-
-
-    
-      <h1 class="hero-title">Hugo Academic Theme</h1>
-    
-
-    
-      <div class="hero-lead"><p><strong>Generated by Wowchemy - the FREE, Hugo-based open source website builder trusted by 500,000+ sites.</strong></p>
-<p><strong>Easily build anything with blocks - no-code required!</strong></p>
-<p>From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.</p>
-<!--Custom spacing-->
-<div class="mb-3"></div>
-<!--GitHub Button JS-->
-<script async defer src="https://buttons.github.io/buttons.js"></script></div>
-    
-
-    
-    
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-    <p class="cta-btns">
-      <a href="https://wowchemy.com/templates/" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-md-1"><strong>Get Started</strong></a>
-
-      
-      
-        
-        
-        
-        
-          
-        
-      <a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener" class="hero-cta-alt btn-lg pl-md-4">Ask a question <i class="fas fa-angle-right"></i></a>
-      
-    </p>
-    
-
-    
-    
-    <p class="hero-note text-muted mb-3 mb-md-1">
-      <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-    </p>
-    
-
-  
-  
-  </div>
-  <div class="col-12 mx-auto col-md-6  hero-media">
-      
-      
-        
-        
-        
-        
-
-        
-          
-          
-            
-          
-          
-        
-          
-          
-          
-        
-          
-          
-          
-        
-        
-
-        <img src="/media/hero-academic_huc70d93133c25ab28042d15d1ecec0cb0_7012_400x0_resize_lanczos_3.png" srcset="/media/hero-academic_huc70d93133c25ab28042d15d1ecec0cb0_7012_1200x0_resize_lanczos_3.png 1200w,/media/hero-academic_huc70d93133c25ab28042d15d1ecec0cb0_7012_800x0_resize_lanczos_3.png 800w,/media/hero-academic_huc70d93133c25ab28042d15d1ecec0cb0_7012_400x0_resize_lanczos_3.png 400w" width="359" height="400" alt="">
-      
-    
-  </div>
-</div>
-
-
-
-  
-
-  </div>
-</section>
 
 
   
@@ -1105,19 +988,19 @@
       
       <img class="avatar avatar-circle"
            width="270" height="270"
-           src="/authors/admin/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg" alt="Wenbin Zhai 翟文斌">
+           src="/authors/admin/avatar_hu808578e76c5780fba1b1376adfaf7d20_1031457_270x270_fill_q75_lanczos_center.jpg" alt="Wenbin Zhai">
       
 
       <div class="portrait-title">
 
-        <h2>Wenbin Zhai 翟文斌</h2>
+        <h2>Wenbin Zhai</h2>
 
-        <h3>Professor of Artificial Intelligence</h3>
+        <h3>Ph.D. Student</h3>
 
         
         <h3>
-          <a href="https://www.stanford.edu/" target="_blank" rel="noopener">
-          <span>Nanjing University of Aeronautics and Astronautics</span>
+          <a href="https://www.polyu.edu.hk" target="_blank" rel="noopener">
+          <span>The Hong Kong Polytechnic University (PolyU)</span>
           </a>
         </h3>
         
@@ -1134,10 +1017,8 @@
         
         
         
-          
-        
         <li>
-          <a href="/#contact"  aria-label="envelope">
+          <a href="mailto:wenbin.zhai@connect.polyu.hk"  aria-label="envelope">
             <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
@@ -1145,25 +1026,6 @@
         
         
         
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener" aria-label="twitter">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
         
         
         
@@ -1171,42 +1033,8 @@
           
         
         <li>
-          <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener" aria-label="graduation-cap">
-            <i class="fas fa-graduation-cap big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/gcushen" target="_blank" rel="noopener" aria-label="github">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.linkedin.com/" target="_blank" rel="noopener" aria-label="linkedin">
-            <i class="fab fa-linkedin big-icon"></i>
+          <a href="https://scholar.google.co.uk/citations?hl=zh-CN&amp;pli=1&amp;user=EdaBuI4AAAAJ" target="_blank" rel="noopener" aria-label="google-scholar">
+            <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
         
@@ -1220,7 +1048,52 @@
           
         
         <li>
-          <a href="/uploads/resume.pdf"  aria-label="cv">
+          <a href="https://orcid.org/0000-0003-3229-5889" target="_blank" rel="noopener" aria-label="orcid">
+            <i class="ai ai-orcid big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://dblp.org/pid/318/6454" target="_blank" rel="noopener" aria-label="dblp">
+            <i class="ai ai-dblp big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.researchgate.net/profile/Wenbin-Zhai" target="_blank" rel="noopener" aria-label="researchgate">
+            <i class="ai ai-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/uploads/CV_WenbinZhai.pdf"  aria-label="cv">
             <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
@@ -1236,8 +1109,10 @@
 
     
     <div class="article-style">
-      <p style="text-align: justify;">Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</p>
-
+      <!-- <div class="text-justify"> -->
+<p>I am current pursuing my Ph.D. degree in the Department of Computing at <a href="https://www.polyu.edu.hk" target="_blank" rel="noopener">The Hong Kong Polytechnic University</a>, supervised by Professor <a href="https://www4.comp.polyu.edu.hk/~csbxiao/index.html" target="_blank" rel="noopener">Bin Xiao</a>. Before that, I was a Research Assistant in the School of Computer Science and Engineering at <a href="https://www.unsw.edu.au" target="_blank" rel="noopener">University of New South Wales</a>, supervised by Professor <a href="https://cgi.cse.unsw.edu.au/~jingling/" target="_blank" rel="noopener">Jingling Xue</a>. I received the B.S. degree in Computer Science and Technology from <a href="https://www.njucm.edu.cn/" target="_blank" rel="noopener">Nanjing University of Chinese Medicine</a>, Nanjing, Jiangsu Province, China, in 2020, supervised by Associate Professor <a href="https://xxjs.njucm.edu.cn/2023/0509/c451a112679/page.htm" target="_blank" rel="noopener">Youwei Ding</a>, and the M.S. degree in Computer Science and Technology from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener">Nanjing University of Aeronautics and Astronautics</a>, Nanjing, Jiangsu Province, China, in 2023, supervised by Associate Professor <a href="https://faculty.nuaa.edu.cn/liangliu/zh_CN/index.htm" target="_blank" rel="noopener">Liang Liu</a> and Professor <a href="https://faculty.nuaa.edu.cn/wls/zh_CN/index.htm" target="_blank" rel="noopener">Lisong Wang</a>. My current research interests include AI Agent Security, Cybersecurity, Wireless Sensor Networks (WSNs), and Networking.</p>
+<p style="text-align: justify;">As a Ph.D. student from an economically disadvantaged background dependent on China&rsquo;s National Minimum Living Allowance Program from 2005 to 2020, I extend my heartfelt gratitude and deepest respect to my elderly parents, Mr. Jianping Zhai and Ms. Jianying Wang, for their unwavering efforts and sacrifices in supporting my education.</p>
+<!-- </div> -->
     </div>
     
 
@@ -1250,17 +1125,22 @@
           
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            Artificial Intelligence
+            AI Agent Security
           </li>
           
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            Computational Linguistics
+            Cybersecurity
           </li>
           
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            Information Retrieval
+            Wireless Sensor Networks
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-book"></i>
+            Networking
           </li>
           
         </ul>
@@ -1275,24 +1155,24 @@
           <li>
             <i class="fa-li fa-solid fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Artificial Intelligence, 2012</p>
-              <p class="institution">Stanford University</p>
+              <p class="course">PhD in Computer Science and Technology, 2025-present</p>
+              <p class="institution">Department of Computing, The Hong Kong Polytechnic University (PolyU), HongKong</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fa-solid fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MEng in Artificial Intelligence, 2009</p>
-              <p class="institution">Massachusetts Institute of Technology</p>
+              <p class="course">MSc by Research in Computer Science and Technology, 2020-2023</p>
+              <p class="institution">College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fa-solid fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">BSc in Artificial Intelligence, 2008</p>
-              <p class="institution">Massachusetts Institute of Technology</p>
+              <p class="course">BSc in Computer Science and Technology, 2016-2020</p>
+              <p class="institution">School of Artificial Intelligence and Information Technology, Nanjing University of Chinese Medicine (NJUCM), China</p>
             </div>
           </li>
           
@@ -1373,144 +1253,7 @@
 
 
 
-<section id="section-features" class="home-section wg-features  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-
-    
-
-
-
-
-
-
-
-<div class="row featurette">
-  
-  <div class="col-md-12 section-heading">
-    <h1>Skills</h1>
-    
-  </div>
-  
-
-  
-
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-4">
-    
-    <div class="featurette-icon"><i class="fab fa-r-project"></i></div>
-    
-    <div class="section-subheading">R</div>
-    <p>90%</p>
-  </div>
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-4">
-    
-    <div class="featurette-icon"><i class="fas fa-chart-line"></i></div>
-    
-    <div class="section-subheading">Statistics</div>
-    <p>100%</p>
-  </div>
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-4">
-    
-    <div class="featurette-icon"><i class="fas fa-camera-retro"></i></div>
-    
-    <div class="section-subheading">Photography</div>
-    <p>10%</p>
-  </div>
-  
-</div>
-
-
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-experience" class="home-section wg-experience  "  >
+<section id="news" class="home-section wg-markdown  "  >
  <div class="home-section-bg " >
    
  </div>
@@ -1521,399 +1264,8 @@
     
       
         <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Experience</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-<div class="col-12 col-lg-8">
-  
-
-  
-  
-
-  
-  
-  <div class="row experience">
-    
-    <div class="col-auto text-center flex-column d-none d-sm-flex">
-      <div class="row h-50">
-        <div class="col ">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-      <div class="m-2">
-        <span class="badge badge-pill border exp-fill">&nbsp;</span>
-      </div>
-      <div class="row h-50">
-        <div class="col border-right">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-    </div>
-    
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><img src="/media/icons/brands/org-gc.svg" width="56px" height="56px" alt="GenCoin" loading="lazy"></div>
-            <div>
-          
-
-              <div class="section-subheading card-title exp-title text-muted my-0">CEO</div>
-              <div class="section-subheading card-title exp-company text-muted my-0">GenCoin</div>
-              <div class="text-muted exp-meta">
-                January 2021 –
-                
-                  Present
-                
-                
-                  <span class="middot-divider"></span>
-                  <span>California</span>
-                
-              </div>
-            </div>
-          </div>
-          
-
-          <div class="card-text"><p>Responsibilities include:</p>
-<ul>
-<li>Analysing</li>
-<li>Modelling</li>
-<li>Deploying</li>
-</ul>
-</div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="row experience">
-    
-    <div class="col-auto text-center flex-column d-none d-sm-flex">
-      <div class="row h-50">
-        <div class="col border-right">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-      <div class="m-2">
-        <span class="badge badge-pill border ">&nbsp;</span>
-      </div>
-      <div class="row h-50">
-        <div class="col ">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-    </div>
-    
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><img src="/media/icons/brands/org-x.svg" width="56px" height="56px" alt="University X" loading="lazy"></div>
-            <div>
-          
-
-              <div class="section-subheading card-title exp-title text-muted my-0">Professor of Semiconductor Physics</div>
-              <div class="section-subheading card-title exp-company text-muted my-0">University X</div>
-              <div class="text-muted exp-meta">
-                January 2016 –
-                
-                  December 2020
-                
-                
-                  <span class="middot-divider"></span>
-                  <span>California</span>
-                
-              </div>
-            </div>
-          </div>
-          
-
-          <div class="card-text">Taught electronic engineering and researched semiconductor physics.</div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  
-</div>
-
-
-  
-    </div>
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-accomplishments" class="home-section wg-accomplishments  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-    <div class="row  ">
-    
-      
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Accomplish­ments</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-<div class="col-12 col-lg-8">
-  
-
-  
-  
-    <div class="card experience course">
-      <div class="card-body">
-        <div class="d-flex align-content-start">
-          <div class="mr-2 mb-2"><a href="https://www.coursera.org" target="_blank" rel="noopener"><img src="/media/icons/brands/coursera.svg" width="56px" height="56px" alt="Coursera" loading="lazy"></a></div>
-          <div>
-        <div class="section-subheading card-title exp-title text-muted my-0">Neural Networks and Deep Learning</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.coursera.org" target="_blank" rel="noopener">Coursera</a><span class="middot-divider"></span>
-
-              Jan 2021
-              
-            </div>
-          </div>
-        </div>
-        
-
-        
-
-        
-          <a class="card-link" href="https://www.coursera.org" target="_blank" rel="noopener">
-            See certificate
-          </a>
-        
-      </div>
-    </div>
-  
-    <div class="card experience course">
-      <div class="card-body">
-        <div class="d-flex align-content-start">
-          <div class="mr-2 mb-2"><a href="https://www.edx.org" target="_blank" rel="noopener"><img src="/media/icons/brands/edx.svg" width="56px" height="56px" alt="edX" loading="lazy"></a></div>
-          <div>
-        <a href="https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals" target="_blank" rel="noopener"><div class="section-subheading card-title exp-title text-muted my-0">Blockchain Fundamentals</div></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.edx.org" target="_blank" rel="noopener">edX</a><span class="middot-divider"></span>
-
-              Jan 2021
-              
-            </div>
-          </div>
-        </div>
-        
-
-        
-          <div class="card-text">Formulated informed blockchain models, hypotheses, and use cases.</div>
-        
-
-        
-          <a class="card-link" href="https://www.edx.org" target="_blank" rel="noopener">
-            See certificate
-          </a>
-        
-      </div>
-    </div>
-  
-    <div class="card experience course">
-      <div class="card-body">
-        <div class="d-flex align-content-start">
-          <div class="mr-2 mb-2"><a href="https://www.datacamp.com" target="_blank" rel="noopener"><img src="/media/icons/brands/datacamp.svg" width="56px" height="56px" alt="DataCamp" loading="lazy"></a></div>
-          <div>
-        <div class="section-subheading card-title exp-title text-muted my-0">Object-Oriented Programming in R</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.datacamp.com" target="_blank" rel="noopener">DataCamp</a><span class="middot-divider"></span>
-
-              Jul 2020
-              
-              – Dec 2020
-              
-            </div>
-          </div>
-        </div>
-        
-
-        
-
-        
-          <a class="card-link" href="https://www.datacamp.com" target="_blank" rel="noopener">
-            See certificate
-          </a>
-        
-      </div>
-    </div>
-  
-  
-</div>
-
-
-  
-    </div>
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="posts" class="home-section wg-collection  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-    <div class="row  ">
-    
-      
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Recent Posts</h1>
-          
+          <h1 class="mb-0">Recent News</h1>
+          <p class="mt-1"><a href="/news">All news&raquo;</a></p>
         </div>
       
     
@@ -1930,857 +1282,8 @@
 
 
 
-  
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-<div class="col-12 col-lg-8">
-
-  
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/getting-started/" >Welcome to Wowchemy, the website builder for Hugo</a>
-    </div>
-
-    
-    <a href="/post/getting-started/"  class="summary-link">
-      <div class="article-style">
-        Welcome 👋 We know that first impressions are important, so we&rsquo;ve populated your new site with some initial content to help you get familiar with everything in no time.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  <span class="author-highlighted">
-      Wenbin Zhai 翟文斌</span>, <span >
-      吳恩達</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Dec 13, 2020
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/demo/">Demo</a>, <a href="/category/%E6%95%99%E7%A8%8B/">教程</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-      
-      <a href="/post/getting-started/" >
-        <img src="/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_h2_lanczos.webp" height="84" width="150"
-            alt="Welcome to Wowchemy, the website builder for Hugo" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/writing-technical-content/" >Writing technical content in Markdown</a>
-    </div>
-
-    
-    <a href="/post/writing-technical-content/"  class="summary-link">
-      <div class="article-style">
-        Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
-Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 12, 2019
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    6 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-      
-      <a href="/post/writing-technical-content/" >
-        <img src="/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q75_h2_lanczos.webp" height="100" width="150"
-            alt="Writing technical content in Markdown" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/jupyter/" >Display Jupyter Notebooks with Academic</a>
-    </div>
-
-    
-    <a href="/post/jupyter/"  class="summary-link">
-      <div class="article-style">
-        Learn how to blog in Academic using Jupyter notebooks
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  <span class="author-highlighted">
-      Wenbin Zhai 翟文斌</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    Sep 5, 2019
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-      
-      <a href="/post/jupyter/" >
-        <img src="/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_q75_h2_lanczos_3.webp" height="65" width="150"
-            alt="Display Jupyter Notebooks with Academic" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-
-  
-  
-  
-
-</div>
-
-
-  
-    </div>
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="projects" class="home-section wg-portfolio  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-    <div class="row  justify-content-center">
-    
-      
-        <div class="section-heading col-12 mb-3 text-center">
-          <h1 class="mb-0">Projects</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="col-12 ">
-
-  
-
-  
-
-    
-
-    
-    
-    
-    
-      
-      
-        
-      
-    
-
-    <span class="d-none default-project-filter">*</span>
-
-    
-    
-    <div class="project-toolbar">
-      <div class="project-filters">
-        <div class="btn-toolbar d-flex justify-content-center">
-          <div class="btn-group flex-wrap">
-            
-              
-              
-              
-                
-                  
-                
-              
-              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
-            
-              
-              
-              
-                
-                  
-                
-              
-              <a href="#" data-filter=".js-id-deep-learning" class="btn btn-primary btn-lg">Deep Learning</a>
-            
-              
-              
-              
-                
-                  
-                
-              
-              <a href="#" data-filter=".js-id-demo" class="btn btn-primary btn-lg">Other</a>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    
-  
-
-  <div class="isotope projects-container row js-layout-row project-showcase">
-
-    
-    
-
-    
-    
-    
-      
-    
-    
-    
-    
-      
-    
-
-    
-    
-    
-    
-    
-    
-
-    
-      
-        
-          <div class="col-12 isotope-item js-id-deep-learning">
-        
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="col-lg-12 mb-5 view-showcase">
-  <div class="row align-items-center">
-    <div class="col-12 col-md-6">
-      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/example/" >Example Project</a></div>
-
-      
-      <div class="article-style">
-        An example of using the in-built project page.
-      </div>
-      
-
-      <div class="btn-links">
-        
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>Follow</a>
-
-
-      </div>
-
-    </div>
-    <div class="col-12 col-md-6 order-first ">
-      
-
-      
-        
-        <a href="/project/example/" >
-          <img src="/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_540x0_resize_q75_h2_lanczos.webp" height="304" width="540"
-              alt="Example Project" loading="lazy">
-        </a>
-      
-    </div>
-  </div>
-</div>
-
-      </div>
-    
-      
-        
-          <div class="col-12 isotope-item js-id-demo">
-        
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="col-lg-12 mb-5 view-showcase">
-  <div class="row align-items-center">
-    <div class="col-12 col-md-6">
-      <div class="section-subheading article-title mb-0 mt-0"><a href="https://example.org" >External Project</a></div>
-
-      
-      <div class="article-style">
-        An example of linking directly to an external project website using <code>external_link</code>.
-      </div>
-      
-
-      <div class="btn-links">
-        
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-
-    </div>
-    <div class="col-12 col-md-6 order-first ">
-      
-
-      
-        
-        <a href="https://example.org" >
-          <img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_540x0_resize_q75_h2_lanczos.webp" height="304" width="540"
-              alt="External Project" loading="lazy">
-        </a>
-      
-    </div>
-  </div>
-</div>
-
-      </div>
-    
-
-  </div>
-</div>
-
-
-  
-    </div>
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-markdown" class="home-section wg-markdown  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-    <div class="row  justify-content-center">
-    
-      
-        <div class="section-heading col-12 mb-3 text-center">
-          <h1 class="mb-0">Gallery</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-
-  <div class="col-12">
+  <div class="col-12 col-lg-8">
     
-
-
-
-
-
-
 
 
 
@@ -2788,111 +1291,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
-
-
-
-<div class="gallery-grid">
-
-  
-  
-  
-    
-    
-    
-    
-    
-  
-  
-  <div class="gallery-item gallery-item--medium">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" >
-      <img src="/media/albums/demo/chris-montgomery-smgTvepind4-unsplash_hu68f1f4ae312ace90ad56e06a7b965ca9_245831_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="chris-montgomery-smgTvepind4-unsplash.jpg" width="750" height="563">
-    </a>
-  </div>
-  
-    
-    
-    
-    
-    
-  
-  
-    
-  
-  <div class="gallery-item gallery-item--full">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/dan-gold-4_jhDO54BYg-unsplash-f.jpg" >
-      <img src="/media/albums/demo/dan-gold-4_jhDO54BYg-unsplash-f_hubb57eb7d78eb9d6871b4f982a9cfe98b_447788_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="dan-gold-4_jhDO54BYg-unsplash-f.jpg" width="750" height="500">
-    </a>
-  </div>
-  
-    
-    
-    
-    
-    
-  
-  
-  <div class="gallery-item gallery-item--medium">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/fotografierende-333oj7zFsdg-unsplash.jpg" >
-      <img src="/media/albums/demo/fotografierende-333oj7zFsdg-unsplash_hu596cc7cd654d6dbe93ef5a0a61cb3766_116195_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="fotografierende-333oj7zFsdg-unsplash.jpg" width="750" height="500">
-    </a>
-  </div>
-  
-    
-    
-    
-    
-    
-  
-  
-  <div class="gallery-item gallery-item--medium">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg" >
-      <img src="/media/albums/demo/glenn-carstens-peters-npxXWgQ33ZQ-unsplash_hufe7234d721dea2d4376339533ed0a7b7_115372_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg" width="750" height="499">
-    </a>
-  </div>
-  
-    
-    
-    
-    
-    
-  
-  
-  <div class="gallery-item gallery-item--medium">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg" >
-      <img src="/media/albums/demo/joseph-gonzalez-zcUgjyqEwe8-unsplash_hu0da53bf391414dd35b860edb2d47ae67_331376_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg" width="580" height="750">
-    </a>
-  </div>
-  
-    
-    
-    
-    
-    
-  
-  
-    
-  
-  <div class="gallery-item gallery-item--large">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/matthew-osborn-wMRIcT86SWU-unsplash-l.jpg" >
-      <img src="/media/albums/demo/matthew-osborn-wMRIcT86SWU-unsplash-l_hu5617109cd94ff53d835059e892c0ab5d_398024_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="matthew-osborn-wMRIcT86SWU-unsplash-l.jpg" width="750" height="500">
-    </a>
-  </div>
-  
-    
-    
-    
-    
-    
-  
-  
-  <div class="gallery-item gallery-item--medium">
-    <a data-fancybox="gallery-demo" href="/media/albums/demo/priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg" >
-      <img src="/media/albums/demo/priscilla-du-preez-K8XYGbw4Ahg-unsplash_huef8cdcc68a376950d1b1bcb089263869_96811_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg" width="750" height="500">
-    </a>
-  </div>
-  
 
-</div>
+<p><strong>[1/09/25]</strong> A co-author paper DDC: Efficient Dynamic-Dictionary-Based Compression on Floating Time Series Data has been accepted by the 23st IEEE International Symposium on Parallel and Distributed Processing with Applications (<strong>ISPA 2025</strong>) [CCF C]. Congratulations to Keyue!</p>
+<p><strong>[26/04/25]</strong> A co-author paper <a href="/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf">OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</a> has been published on Peer-to-Peer Networking and Applications (<strong>PPNA</strong>) [CCF C]. Congratulations to Kaibin!</p>
+<p><strong>[29/11/24]</strong> My postgraduate thesis <a href="/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf">Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)</a> has been awarded as the &ldquo;Outstanding Postgraduate Thesis of <strong>Jiangsu Province</strong>&rdquo; and &ldquo;Outstanding Postgraduate Thesis of <strong>Jiangsu Computer Society</strong>&rdquo;.</p>
 
 
   </div>
@@ -3077,8 +1479,11 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
 
   <span class="author-highlighted">
-      Wenbin Zhai 翟文斌</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Robert Ford</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>
+      Wenbin Zhai</span>, <span >
+      Liang Liu</span>, <span >
+      Youwei Ding</span>, <span >
+      Shanshan Sun</span>, <span >
+      Ying Gu</span>
   </div>
   
   
@@ -3089,7 +1494,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
       
     
-    July, 2013
+    May, 2023
   </span>
   
 
@@ -3097,7 +1502,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      In <em>ICW</em>
+      <em>IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>)</em> [<strong>CORE A</strong>, CCF A, SCI-Q1, IF 7.231]
     
   </span>
   
@@ -3120,22 +1525,22 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   
     
-    <a href="/publication/conference-paper/" >
+    <a href="/publication/journal-article/etd/" >
       <div class="img-hover-zoom">
-        <img src="/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q75_h2_lanczos_smart1.webp" height="455" width="808"
-            class="article-banner" alt="An example conference paper" loading="lazy">
+        <img src="/publication/journal-article/etd/featured_hu92456580e56fddf4f3c592621d13c105_959743_808x455_fill_q75_h2_lanczos_smart1.webp" height="455" width="808"
+            class="article-banner" alt="ETD: An Efficient Time Delay Attack Detection Framework for UAV Networks" loading="lazy">
       </div>
     </a>
   
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="/publication/conference-paper/" >An example conference paper</a>
+    <a href="/publication/journal-article/etd/" >ETD: An Efficient Time Delay Attack Detection Framework for UAV Networks</a>
   </div>
 
   
-  <a href="/publication/conference-paper/"  class="summary-link">
+  <a href="/publication/journal-article/etd/"  class="summary-link">
     <div class="article-style">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p>
+      <p>An Efficient Time Delay Attack Detection Framework to detect time delay attack in UAV networks, which is a less explored attack surface.</p>
     </div>
   </a>
   
@@ -3155,70 +1560,32 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference-paper/conference-paper.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/journal-article/etd/ETD.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/conference-paper/cite.bib">
+        data-filename="/publication/journal-article/etd/cite.bib">
   Cite
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-  Code
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TIFS.2023.3272862" target="_blank" rel="noopener">
+  DOI
 </a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/example/">
-    Project
-  </a>
-  
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtube.com" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-  Source Document
-</a>
-
 
 
 
@@ -3382,7 +1749,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
   <div class="alert alert-note">
   <div>
-    Quickly discover relevant content by <a href="./publication/">filtering publications</a>.
+    View all my publication <a href="./publication/">here</a>, and quickly discover relevant content by <a href="./publication/">filters</a>.
   </div>
 </div>
 
@@ -3400,11 +1767,16 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   <span class="article-metadata li-cite-author">
     
 
-  <span class="author-highlighted">
-      Wenbin Zhai 翟文斌</span>
+  <span >
+      Kaibin Zhang</span>, <span >
+      Liang Liu</span>, <span class="author-highlighted">
+      Wenbin Zhai</span>, <span >
+      Youwei Ding</span>, <span >
+      Jun Hu</span>
   </span>
-  (2019).
-  <a href="/publication/preprint/">An example preprint / working paper</a>.
+  (2025).
+  <a href="/publication/journal-article/zhang-ppna/">OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</a>.
+  <em>Peer-to-Peer Networking and Applications (<strong>PPNA</strong>)</em> [CCF C, SCI-Q2, IF 3.488].
   
   <p>
 
@@ -3416,152 +1788,89 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
   
-    
-  
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://arxiv.org/pdf/1512.04133v1" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/#" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-    
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/#" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/#" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/#" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://example.org" target="_blank" rel="noopener">
-    Custom Link</a>
-
-</p>
-
-  
-  
-</div>
-
-  
-    
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span class="author-highlighted">
-      Wenbin Zhai 翟文斌</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Robert Ford</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>
-  </span>
-  (2015).
-  <a href="/publication/journal-article/">An example journal article</a>.
-  <em>Journal of Source Themes, 1</em>(1).
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://arxiv.org/pdf/1512.04133v1" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/journal-article/cite.bib">
+        data-filename="/publication/journal-article/zhang-ppna/cite.bib">
   Cite
 </a>
 
 
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1007/s12083-025-01968-z" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
   
+  
+</div>
+
   
     
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
   
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-  Code
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Kaibin Zhang</span>, <span >
+      Liang Liu</span>, <span class="author-highlighted">
+      Wenbin Zhai</span>, <span >
+      Youwei Ding</span>, <span >
+      Jun Hu</span>
+  </span>
+  (2024).
+  <a href="/publication/conference-paper/zhang-icpads/">OSIS: Obstacle-Sensitive and Initial-Solution-first path planning</a>.
+  In <em>the 29th IEEE International Conference on Parallel and Distributed Systems (<strong>ICPADS 2023</strong>)</em> [CCF C].
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference-paper/zhang-icpads/Zhang-ICPADS.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/conference-paper/zhang-icpads/cite.bib">
+  Cite
 </a>
 
 
@@ -3570,14 +1879,226 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICPADS60453.2023.00384" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Wanying Lu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      Wenbin Zhai</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Feng Wang</span>, <span >
+      Yu Fan</span>
+  </span>
+  (2024).
+  <a href="/publication/conference-paper/lu-cecct/">A Framework for Moving Target Defense based on Federated Semi-Supervised Learning</a>.
+  In <em>the 2023 International Conference on Electronics, Computers and Communication Technology (<strong>CECCT 2023</strong>)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
   
 
 
 
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference-paper/lu-cecct/Lu-CECCT.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/conference-paper/lu-cecct/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1145/3637494.3638748" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Kun Guo</span>, <span >
+      Liang Liu</span>, <span class="author-highlighted">
+      Wenbin Zhai</span>, <span >
+      Youwei Ding</span>
+  </span>
+  (2023).
+  <a href="/publication/conference-paper/guo-iccc/">EKR: An Efficient K-anycast Routing in UAV Networks</a>.
+  In <em>the 9th International Conference on Computer and Communications (<strong>ICCC 2023</strong>)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference-paper/guo-iccc/Guo-ICCC.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/conference-paper/guo-iccc/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/ICCC59590.2023.10507578" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Zixiao Zhou</span>, <span >
+      Liang Liu</span>, <span class="author-highlighted">
+      Wenbin Zhai</span>, <span >
+      Jiancheng Song</span>, <span >
+      Yulei Liu</span>
+  </span>
+  (2023).
+  <a href="/publication/conference-paper/zhou-cdics/">Power-Aware Path Planning for Vehicle-Assisted Heterogeneous UAVs in Mobile Crowd Sensing</a>.
+  In <em>the 2023 International Conference on Data, Information and Computing Science (<strong>CDICS 2023</strong>)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference-paper/zhou-cdics/Zhou-CDICS.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/conference-paper/zhou-cdics/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/CDICS61497.2023.00013" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 </p>
@@ -3592,434 +2113,25 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   
 
-</div>
-
-
-  
-    </div>
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="talks" class="home-section wg-collection  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-    <div class="row  ">
-    
-      
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Recent &amp; Upcoming Talks</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-<div class="col-12 col-lg-8">
-
-  
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/example-talk/" >Example Talk</a>
-    </div>
-
-    
-    <a href="/talk/example-talk/"  class="summary-link">
-      <div class="article-style">
-        An example talk using Wowchemy&rsquo;s Markdown slides feature.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Jun 1, 2030 1:00 PM &mdash; 3:00 PM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Wowchemy HQ</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/example/">
-    Project
-  </a>
-  
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>Follow</a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
     
     
       
-      <a href="/talk/example-talk/" >
-        <img src="/talk/example-talk/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_h2_lanczos.webp" height="107" width="150"
-            alt="Example Talk" loading="lazy">
+    
+
+    
+    
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
       </a>
-    
-  </div>
-</div>
-
-  
-
-  
-  
-  
-
-</div>
-
-
-  
-    </div>
-  
-
-  </div>
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-tag_cloud" class="home-section wg-tag-cloud  "  >
- <div class="home-section-bg " >
-   
- </div>
-  <div class="container">
-
-  
-    <div class="row  ">
-    
-      
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Popular Topics</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="col-12 col-lg-8">
-  
-
-  
-
-    
-    
-    
-    
-    
-    
-
-    <div class="tag-cloud">
-      
-        
-        
-        
-        <a href="/tag/academic/" style="font-size:0.8rem">Academic</a>
-      
-        
-        
-        
-        <a href="/tag/deep-learning/" style="font-size:0.8rem">Deep Learning</a>
-      
-        
-        
-        
-        <a href="/tag/demo/" style="font-size:0.8rem">Demo</a>
-      
-        
-        
-        
-        <a href="/tag/source-themes/" style="font-size:1.8725805810714777rem">Source Themes</a>
-      
-        
-        
-        
-        <a href="/tag/%E5%BC%80%E6%BA%90/" style="font-size:0.8rem">开源</a>
-      
     </div>
   
 
@@ -4096,18 +2208,18 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
-<section id="contact" class="home-section wg-contact  "  >
+<section id="projects" class="home-section wg-portfolio  "  >
  <div class="home-section-bg " >
    
  </div>
   <div class="container">
 
   
-    <div class="row  ">
+    <div class="row  justify-content-center">
     
       
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Contact</h1>
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Research</h1>
           
         </div>
       
@@ -4127,98 +2239,90 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
+<div class="col-12 ">
 
-
-
-
-
-
-
-
-
-
-<div class="col-12 col-lg-8">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.</p>
+  
 
   
 
     
+
     
+    
+    
+    
+      
+      
+        
       
     
 
-    <div class="mb-3">
-      <form name="contact" method="POST" netlify netlify-honeypot="_gotcha"  >
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputName">Name</label>
-          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar d-flex justify-content-center">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-llm-agent-security" class="btn btn-primary btn-lg">LLM Agent Security</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-cybersecurity" class="btn btn-primary btn-lg">Cybersecurity</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-wireless-sensor-networks" class="btn btn-primary btn-lg">Wireless Sensor Networks</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-networking" class="btn btn-primary btn-lg">Networking</a>
+            
+          </div>
         </div>
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputEmail">Email</label>
-          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-        </div>
-        <div class="form-group">
-          <label class="sr-only" for="inputMessage">Message</label>
-          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-        </div>
-        
-        <div class="d-none">
-          <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
-        </div>
-        
-        <button type="submit" class="btn btn-primary px-3 py-2 w-100">Send</button>
-      </form>
+      </div>
     </div>
+    
   
 
-  <ul class="fa-ul">
-
-    
-    <li>
-      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-      <span id="person-email"><a href="mailto:test@example.org">test@example.org</a></span>
-    </li>
-    
-
-    
-    <li>
-      <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-      <span id="person-telephone"><a href="tel:888%20888%2088%2088">888 888 88 88</a></span>
-    </li>
-    
+  <div class="isotope projects-container row js-layout-row project-showcase">
 
     
     
-      
-      <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">450 Serra Mall, Stanford, CA 94305</span>
-      </li>
-    
 
-    
-    <li>
-      <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-      <span>Enter Building 1 and take the stairs to Office 200 on Floor 2</span>
-    </li>
-    
-
-    
-    <li>
-      <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-      <span>Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00</span>
-    </li>
-    
-
-    
-    <li>
-      <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-      <a href="https://calendly.com" target="_blank" rel="noopener">Book an appointment</a>
-    </li>
-    
-
-    
-    
     
     
     
@@ -4227,54 +2331,1789 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     
     
-    
       
-    
-    <li>
-      <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-      <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">DM Me</a>
-    </li>
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-      <a href="skype:echo123?call" >Skype Me</a>
-    </li>
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <i class="fa-li fas fa-video fa-2x" aria-hidden="true"></i>
-      <a href="https://zoom.com" target="_blank" rel="noopener">Zoom Me</a>
-    </li>
     
 
-  </ul>
+    
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="col-12 isotope-item js-id-cybersecurity js-id-wireless-sensor-networks">
+        
+        
+
+
+
+
 
   
 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/feds3a/" >FedS3A</a></div>
+
+      
+      <div class="article-style">
+        A Federated Semi-Supervised and Semi-asynchronous learning (FedS<sup>3</sup>A) for anomaly detection in IoT networks
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2308.11981" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        <a href="/project/feds3a/" >
+          <img src="/project/feds3a/featured_hu92456580e56fddf4f3c592621d13c105_396410_540x0_resize_q75_h2_lanczos.webp" height="252" width="540"
+              alt="FedS3A" loading="lazy">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-cybersecurity js-id-wireless-sensor-networks">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/etd/" >ETD</a></div>
+
+      
+      <div class="article-style">
+        An Efficient Time Delay attack detection scheme (ETD) to detect time delay attack in UAV networks
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/project/etd/ETD.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        <a href="/project/etd/" >
+          <img src="/project/etd/featured_hu92456580e56fddf4f3c592621d13c105_959743_540x0_resize_q75_h2_lanczos.webp" height="426" width="540"
+              alt="ETD" loading="lazy">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-cybersecurity js-id-wireless-sensor-networks">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/hotd/" >HOTD</a></div>
+
+      
+      <div class="article-style">
+        A Holistic cross-layer Time Delay attack detection framework (HOTD) to detect time delay attack in UAV networks
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/project/hotd/HOTD.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        <a href="/project/hotd/" >
+          <img src="/project/hotd/featured_hu92456580e56fddf4f3c592621d13c105_771794_540x0_resize_q75_h2_lanczos.webp" height="161" width="540"
+              alt="HOTD" loading="lazy">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-networking js-id-wireless-sensor-networks">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/par/" >PAR</a></div>
+
+      
+      <div class="article-style">
+        A Power-Aware Routing (PAR) algorithm to optimize energy consumption in delay-constrained UAV networks
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/project/par/PAR.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        <a href="/project/par/" >
+          <img src="/project/par/featured_hu92456580e56fddf4f3c592621d13c105_342040_540x0_resize_q75_h2_lanczos.webp" height="224" width="540"
+              alt="PAR" loading="lazy">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+
+  </div>
 </div>
 
 
   
     </div>
+  
+
+  </div>
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="honors" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Honors and Awards</h1>
+          <p class="mt-1"><a href="/honors">All honors and awards&raquo;</a></p>
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12 col-lg-8">
+    
+
+
+
+
+
+
+
+
+<p><strong>[18/05/25]</strong> PolyU Research Postgraduate Scholarship (PRPgS)</p>
+<p><strong>[10/01/25]</strong> Outstanding Postgraduate Thesis of Jiangsu Computer Society</p>
+<p><strong>[28/11/24]</strong> Outstanding Postgraduate Thesis of Jiangsu Province</p>
+<p><strong>[16/12/23]</strong> Tuition Fee Scholarship of UNSW Sydney (Cover both tuition fees and living allowance)</p>
+<p><strong>[03/04/23]</strong> Provincial Merit Student of Jiangsu Province (<strong>Awarded to 1 postgraduate student in the college annually</strong>)</p>
+
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="activities" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Professional Activities</h1>
+          <p class="mt-1"><a href="/activities">All Professional Activities&raquo;</a></p>
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12 col-lg-8">
+    
+
+
+
+
+
+
+
+
+<h2 id="journal-reviewer">Journal Reviewer</h2>
+<ul>
+<li>
+<p>IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>) [<strong>CORE A</strong>, CCF A, SCI-Q1]</p>
+</li>
+<li>
+<p>The Journal of Supercomputing (<strong>TJSC</strong>) [CCF C, SCI-Q2]</p>
+</li>
+</ul>
+
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="collaborator" class="home-section wg-people  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+    <div class="section-heading col-12 mb-3 text-center">
+      <h1 class="mb-0">Collaborator</h1>
+      
+    </div>
+  
+
+  
+
+  
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+      <div class="col-md-12">
+        <h2 class="mb-4">Scholars</h2>
+      </div>
+    
+
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/youweiding/avatar_hua219b4c04346b54983f568626f745fd1_68210_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Youwei Ding</h2>
+          <h3>Nanjing University of Chinese Medicine</h3>
+          <h3>Associate Professor</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://xxjs.njucm.edu.cn/2024/0409/c465a125590/page.htm" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:ywding@njucm.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/00/2414.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/chunpengge/avatar_hu3660944000b432b165b78dae7662547f_6073_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Chunpeng Ge</h2>
+          <h3>Shandong University</h3>
+          <h3>Professor</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.sc.sdu.edu.cn/info/1043/3960.htm" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:chunpeng_ge@sdu.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=RgN3FagAAAAJ&amp;hl=zh-CN&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/20/7563.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/liangliu/avatar_hucb01c3479c113880ea25e4f8b56e1755_327927_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Liang Liu</h2>
+          <h3>Nanjing University of Aeronautics and Astronautics</h3>
+          <h3>Associate Professor</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://faculty.nuaa.edu.cn/liangliu/zh_CN/index/58911/list/index.htm" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:liangliu@nuaa.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=3_WEhvgAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/10/6178-6.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/lisongwang/avatar_hue590f98e8c07886fc7ca7f85f072c6df_94600_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Lisong Wang</h2>
+          <h3>Nanjing University of Aeronautics and Astronautics</h3>
+          <h3>Professor</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://faculty.nuaa.edu.cn/wls/zh_CN/index.htm" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:wangls@nuaa.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/01/1652.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/binxiao/avatar_hu72c7cb64d83fe4c1608f9d3dcb09c10b_359627_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Bin Xiao</h2>
+          <h3>The Hong Kong Polytechnic University</h3>
+          <h3>Professor, IEEE Fellow (Computer Society), AAIA Fellow</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www4.comp.polyu.edu.hk/~csbxiao/index.html" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:b.xiao@polyu.edu.hk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=yFLW6jgAAAAJ&amp;hl=zh-CN&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/43/5134-1.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/jinglingxue/avatar_hu5ec0392616924568eac9aeaf331744ad_12272_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Jingling Xue</h2>
+          <h3>University of New South Wales</h3>
+          <h3>Scientia Professor, IEEE Fellow (Computer Society)</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.cse.unsw.edu.au/~jingling/" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:j.xue@unsw.edu.au" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=oZlds-AAAAAJ" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/x/JinglingXue.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+  
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+      <div class="col-md-12">
+        <h2 class="mb-4">Researchers</h2>
+      </div>
+    
+
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/xinli/avatar_hu5ff741a6c3b308d5726efddad3d2c84d_104610_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Xin Li</h2>
+          <h3>Meituan</h3>
+          <h3>Research and Development Engineer</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:nuaalix@nuaa.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/wanyinglu/avatar_hu833b6aefb7945934c93682248b1501dc_138544_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Wanying Lu</h2>
+          <h3>Nanjing University of Aeronautics and Astronautics</h3>
+          <h3>Postgraduate Student</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:wanyinglu@nuaa.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/317/8487.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/yirenlu/avatar_hua7a3d3a2e355b59cd4297e1396c07b4c_347681_270x270_fill_lanczos_center_3.png" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Yiren Lu</h2>
+          <h3>Huawei Hisilicon</h3>
+          <h3>Chip Software Development Engineer</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:lrj001228@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/jianfeipeng/avatar_huda6798acf47492f7e721505bfbf32ca8_401988_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Jianfei Peng</h2>
+          <h3>Nanjing University of Aeronautics and Astronautics</h3>
+          <h3>Postgraduate Student</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:pengjf@nuaa.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/pengwang/avatar_hud4e5d967c634cfe88516382dfc20fe3d_43104_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+        
+
+        <div class="portrait-title">
+          <h2>Peng Wang</h2>
+          <h3>Ant Group</h3>
+          <h3>Research and Development Engineer</h3>
+          <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://ipvvv.github.io" target="_blank" rel="noopener">
+        <i class="fas fa-house"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:wangpeng9812@126.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+          
+        </div>
+      </div>
+    
+  
+</div>
+
+
   
 
   </div>
@@ -4323,37 +4162,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
   
-  
-  
-
-  
-  
-    
-  
-  
-    
-  
-
-  
-
-  
   <p class="powered-by copyright-license-text">
-    © 2023 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2025 Wenbin Zhai
   </p>
   
-
-  <p class="powered-by footer-license-icons">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
-      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
-      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
-      
-        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
-      
-      
-        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
-      
-    </a>
-  </p>
 
 
 
@@ -4381,7 +4193,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
 
 
-<script src="/js/vendor-bundle.min.f64289d8217e08e3afcd597d60836062.js"></script>
+<script src="/js/vendor-bundle.min.938a3a7554cd9f6602290411f64d2617.js"></script>
 
 
 
@@ -4392,8 +4204,6 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
 
   
-  
-    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
   
 
   
@@ -4478,7 +4288,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
 
 
-<script src="/en/js/wowchemy.min.3322c0d94f0e691b0b24c63f4c41064b.js"></script>
+<script src="/en/js/wowchemy.min.85070d5fe00d43eaedff44310b81dc2c.js"></script>
 
 
 
