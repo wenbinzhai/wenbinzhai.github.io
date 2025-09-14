@@ -765,7 +765,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-368942751&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-352497681&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -775,7 +775,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-368942751&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-352497681&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1321,6 +1321,9 @@ $$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The Journal of Supercomputing (&lt;strong&gt;TJSC&lt;/strong&gt;) [CCF C, SCI-Q2]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frontiers of Information Technology &amp;amp; Electronic Engineering (&lt;strong&gt;FITEE&lt;/strong&gt;) [CCF C, SCI-Q2]&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
