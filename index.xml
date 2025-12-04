@@ -27,7 +27,7 @@
 
 
 &lt;p&gt;&lt;strong&gt;[06/10/25]&lt;/strong&gt; A co-first-author paper ESTA: An Efficient Spatial-Temporal Range Aggregation Query Processing Algorithm for UAV Networks has been accepted by IEEE Transactions on Network Science and Engineering (&lt;strong&gt;TNSE&lt;/strong&gt;) [CCF C].&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[01/09/25]&lt;/strong&gt; A co-author paper DDC: Efficient Dynamic-Dictionary-Based Compression on Floating Time Series Data has been accepted by the 23st IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2025&lt;/strong&gt;) [CCF C]. Congratulations to Keyue!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/09/25]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/yang-ispa/Yang-ISPA.pdf&#34;&gt;DDC: Efficient Dynamic-Dictionary-Based Compression on Floating Time Series Data&lt;/a&gt; has been accepted by the 23st IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2025&lt;/strong&gt;) [CCF C]. Congratulations to Keyue!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
@@ -52,6 +52,33 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DDC: Efficient Dynamic-Dictionary-Based Compression on Floating Time Series Data</title>
+      <link>https://wenbinzhai.github.io/publication/conference-paper/yang-ispa/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://wenbinzhai.github.io/publication/conference-paper/yang-ispa/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -765,7 +792,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-364275819&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-286549731&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -775,7 +802,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-364275819&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-286549731&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1289,7 +1316,7 @@ $$&lt;/p&gt;
 
 
 &lt;p&gt;&lt;strong&gt;[06/10/25]&lt;/strong&gt; A co-first-author paper ESTA: An Efficient Spatial-Temporal Range Aggregation Query Processing Algorithm for UAV Networks has been accepted by IEEE Transactions on Network Science and Engineering (&lt;strong&gt;TNSE&lt;/strong&gt;) [CCF C].&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[01/09/25]&lt;/strong&gt; A co-author paper DDC: Efficient Dynamic-Dictionary-Based Compression on Floating Time Series Data has been accepted by the 23st IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2025&lt;/strong&gt;) [CCF C]. Congratulations to Keyue!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/09/25]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/conference-paper/yang-ispa/Yang-ISPA.pdf&#34;&gt;DDC: Efficient Dynamic-Dictionary-Based Compression on Floating Time Series Data&lt;/a&gt; has been accepted by the 23st IEEE International Symposium on Parallel and Distributed Processing with Applications (&lt;strong&gt;ISPA 2025&lt;/strong&gt;) [CCF C]. Congratulations to Keyue!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[26/04/25]&lt;/strong&gt; A co-author paper &lt;a href=&#34;https://wenbinzhai.github.io/publication/journal-article/zhang-ppna/Zhang-PPNA.pdf&#34;&gt;OSIS: Obstacle-Sensitive and Initial-Solution-first path planning&lt;/a&gt; has been published on Peer-to-Peer Networking and Applications (&lt;strong&gt;PPNA&lt;/strong&gt;) [CCF C]. Congratulations to Kaibin!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/11/24]&lt;/strong&gt; My postgraduate thesis &lt;a href=&#34;https://wenbinzhai.github.io/publication/thesis/postgraduatethesis/PostgraduateThesis.pdf&#34;&gt;Research on Routing Protocol for Multi-hop Unmanned Aerial Vehicle Ad-hoc Networks (in Chinese)&lt;/a&gt; has been awarded as the &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Province&lt;/strong&gt;&amp;rdquo; and &amp;ldquo;Outstanding Postgraduate Thesis of &lt;strong&gt;Jiangsu Computer Society&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/12/23]&lt;/strong&gt; I have been awarded a &lt;strong&gt;Tuition Fee Scholarship&lt;/strong&gt; from UNSW Sydney. I appreciate Prof. Xue&amp;rsquo;s support and look forward to pursuing my Ph.D. at UNSW Sydney (&lt;strong&gt;2025 QS World University Rankings #19&lt;/strong&gt;)!&lt;/p&gt;
@@ -1326,6 +1353,10 @@ $$&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;Frontiers of Information Technology &amp;amp; Electronic Engineering (&lt;strong&gt;FITEE&lt;/strong&gt;) [CCF C, SCI-Q2]&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-reviewer&#34;&gt;Conference Reviewer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Fourteenth International Conference on Learning Representations (&lt;strong&gt;ICLR 2026&lt;/strong&gt;) [CCF A]&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
